@@ -5,4 +5,5 @@ title = "Hugo Meta-Data"
 
 [params]
 type = "website"
+image = "/img/meat2.jpg"
 footertext = "A dead-beat site by the one and only Jack O'Brien ♥︎ | 2020"
